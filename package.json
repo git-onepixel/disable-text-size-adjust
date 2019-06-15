@@ -1,0 +1,22 @@
+{
+  "name": "disable-text-size-adjust",
+  "version": "1.0.0",
+  "description": "disable system fontsize scale affect web page layout ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-onepixel/disable-text-size-adjust.git"
+  },
+  "keywords": [
+    "text-size-adjust"
+  ],
+  "author": "Onepixel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/git-onepixel/disable-text-size-adjust/issues"
+  },
+  "homepage": "https://github.com/git-onepixel/disable-text-size-adjust#readme"
+}
