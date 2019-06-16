@@ -1,6 +1,6 @@
 {
   "name": "disable-text-size-adjust",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "disable system fontsize scale affect web page layout ",
   "main": "index.js",
   "scripts": {
